@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artifact Harbor"
+  short_description: "逐步配置 NAS 归档，查看文件与空间统计，并在编辑旧产出前找回原文件"
+  default_prompt: "使用 $codex-nas-archive 打开归档 Dashboard，引导我配置归档期限与 NAS，并预览可迁移文件。"
